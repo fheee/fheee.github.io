@@ -1,7 +1,7 @@
 .sidebar {
 	margin:		0;
 	padding:	0;
-	width:		120px;
+	width:		145px;
 	background-color:	#ffffff;
 	position:	fixed;
 	height:		100%;
@@ -28,7 +28,7 @@
 }
 
 div.content {
-	margin-left:	120px;
+	margin-left:	145px;
 	padding:	1px 16px;
 	height:		1000px;
 }
