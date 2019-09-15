@@ -4,6 +4,8 @@
 	margin: auto;
 	text-align:	justify;
 }
+
+#post-img {text-align: center;}
 #post-fecha {
 	font-size:	0.9em;
 }
