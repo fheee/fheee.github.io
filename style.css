@@ -9,9 +9,19 @@
 #post-fecha {
 	font-size:	0.9em;
 }
+#post-link {
+	color: #000000;
+	text-decoration:	none;
+}
+#post-link:hover {
+	font-weight:	bold;
+}
 
 #post-contenido {
 	line-height:	2px;
+	text-align:	justify;
+	margin-left:	auto;
+	margin-right:	auto;
 }
 
 #pie {
