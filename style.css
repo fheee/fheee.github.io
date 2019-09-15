@@ -1,0 +1,23 @@
+
+#centered {
+	width:	500px;
+	margin: auto;
+	text-align:	justify;
+}
+#post-fecha {
+	font-size:	0.9em;
+}
+
+#post-contenido {
+	line-height:	2px;
+}
+
+#pie {
+	font-style: italic;
+	font-size:	0.8em;
+	text-align: center;
+	width: 500px;
+	margin-left:	auto;
+	margin-right:	auto;
+}
+
