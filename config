@@ -1,6 +1,0 @@
-#defaults
-
-footer="niunn at protonmail dot com | kopimi"
-image-max-width=100%
-image-height=450
-date=$(date +%d.%m.%y)
